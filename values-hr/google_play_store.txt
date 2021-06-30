@@ -1,0 +1,65 @@
+Podrška za pametni sat Haylou, proširuje mogućnosti aplikacija Haylou
+
+<b>Podržani uređaji</b>
+• Haylou Solar (LS05)
+• Haylou Smart Watch 2 (LS02)
+• Haylou Smart Watch (LS01)
+
+Ova aplikacija radi s ili bez originalnih Haylou aplikacija (ali nismo povezani s Xiaomi/Haylou).
+
+<b>Ako imate problema s vezom </b>
+- zaslon nedavnih aplikacija: zaključajte Hello Haylou (povucite aplikaciju i kliknite ikonu zaključavanja)
+- postavke baterije telefona/optimizacija baterije: postavite aplikaciju Hello Haylou na neoptimiziranu
+
+<b>Ako se problem nastavi</b>
+- ponovno pokrenite telefon
+- pošalji mi e-mail
+
+<b>Glavne značajke</b>
+- suradnja sa službenim Haylou aplikacijama ili potpuno neovisan način rada
+- normalna i internetska obavijest dolaznog poziva s prikazom pozivatelja
+- obavijest propuštenog poziva s prikazom pozivatelja
+- prikazuje tekstove obavijesti aplikacija na satu
+- prikazuje najčešće emotikone
+- pretvaranje velikih slova
+- prilagodljivi znak i zamjena emojija
+- prikazuje stanje baterije
+- obavijest o niskoj razini baterije
+
+<b>Koraci</b>
+- dnevni/tjedni/mjesečni/godišnji grafikoni
+
+<b>Puls</b>
+- dnevni/tjedni/mjesečni/godišnji grafikoni
+- izmjerene vrijednosti, kvartalne vrijednosti, polusatne vrijednosti, satne vrijednosti
+
+<b>Spavanje</b>
+- dnevni/tjedni/mjesečni/godišnji grafikoni
+
+<b>Vremenska prognoza</b>
+- vremenska prognoza na pametnom satu (LS05, LS02)
+
+<b>Kontrola dodira</b>
+- radnja tipke za odbijanje dolaznog poziva: odbijanje poziva, isključivanje poziva, odgovaranje na poziv
+- pronađi moj mobitel
+- kontrola glazbe
+- glasnoća glazbe +/-
+- prečac isklj. zvuka telefona
+- prečac svjetiljke
+
+<b>Alarmi</b>
+
+<b>Podsjetnici događaja</b>
+- satno ponavljanje
+
+<b>DND način rada</b>
+- uključivanje i isključivanjee Bluetooth-a
+- uključivanje i isključivanje upozorenja za poziv ili obavijest
+
+<b>Izvoz</b>
+- izvoz podataka u csv format
+
+<b>Languages</b>
+English, Hungarian, Russian, Ukrainian, Portuguese, Spanish, Polish, Czech, Slovak, Turkish, Italian, French, Germany, Romanian, Greek, Korean, Japanese, Chinese
+
+<b>Translated by MASVA</b>

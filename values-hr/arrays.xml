@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_button_action">
+        <item>Odbijanje, kraj poziva</item>
+        <item>Utišavanje poziva</item>
+        <item>Odgovaranje na poziv</item>
+    </string-array>
+    <string-array name="notification_group_display_time">
+        <item>Autom. (3 – 5 sekundi)</item>
+        <item>3 sekunde</item>
+        <item>4 sekunde</item>
+        <item>5 sekundi</item>
+        <item>6 sekundi</item>
+        <item>7 sekundi</item>
+    </string-array>
+    <string-array name="notification_group_grouped_dispay">
+        <item>Prikaži sve kad se uređaj poveže, inače samo najnovija obavijest</item>
+        <item>Prikaži sve najnoviju obavijesti</item>
+        <item>Prikaži samo najnoviju obavijest</item>
+    </string-array>
+    <string-array name="notification_group_grouped_order">
+        <item>Normalni redoslijed</item>
+        <item>Obrnuti redoslijed</item>
+    </string-array>
+    <string-array name="notification_group_repeat">
+        <item>Uvijek</item>
+        <item>Nikad</item>
+        <item>Jednom</item>
+        <item>Dvapu</item>
+        <item>Triput</item>
+    </string-array>
+    <string-array name="pref_connected_have_notif_reminder_repeat_interval">
+        <item>3 minute</item>
+        <item>5 minuta</item>
+        <item>10 minuta</item>
+        <item>15 minuta</item>
+        <item>20 minuta</item>
+        <item>30 minuta</item>
+        <item>1 sat</item>
+        <item>2 sata</item>
+        <item>3 sata</item>
+    </string-array>
+    <string-array name="pref_distance_unit">
+        <item>Metrički (kilometar)</item>
+        <item>Imperial (milja)</item>
+    </string-array>
+    <string-array name="pref_language">
+        <item>@string/default_</item>
+        <item>English</item>
+        <item>Magyar</item>
+        <item>Русский</item>
+        <item>Українська</item>
+        <item>Português</item>
+        <item>Español</item>
+        <item>Italiano</item>
+        <item>Türkçe</item>
+        <item>Polish</item>
+        <item>Tiếng Việt</item>
+        <item>Deutsch</item>
+        <item>Nederlands</item>
+        <item>Čeština</item>
+        <item>Slovenský</item>
+        <item>Français</item>
+		<item>Hrvatski</item>
+        <item>Norsk</item>
+        <item>Ελληνικά</item>
+        <item>Indonesia</item>
+        <item>Română</item>
+        <item>简体中文</item>
+        <item>繁體中文</item>
+        <item>한국어</item>
+        <item>日本語</item>
+        <item>فارسی</item>
+    </string-array>
+    <string-array name="pref_theme_day_night">
+        <item>Zadano</item>
+        <item>Svijetla</item>
+        <item>Tamna</item>
+    </string-array>
+    <string-array name="touch_mute_toggle_ringer_mode">
+        <item>Vibracija</item>
+        <item>Bešumno</item>
+        <item>DND (samo priorit)</item>
+        <item>DND (samo alarmi)</item>
+        <item>DND (totalna tišina)</item>
+    </string-array>
+    <string-array name="workout">
+        <item>Napoznato</item>
+        <item>Trčanje na otvorenom</item>
+        <item>Traka za trčanja</item>
+        <item>Hodanje</item>
+        <item>Bicikliranje</item>
+        <item>Planinarenje</item>
+        <item>Spinning</item>
+        <item>Yoga</item>
+        <item>Trening</item>
+        <item>Gimnastika</item>
+        <item>Košarka</item>
+        <item>Nogomet</item>
+        <item>Stroj za veslanje</item>
+        <item>Preskakanje užeta</item>
+        <item>Tenis</item>
+        <item>Baseball</item>
+        <item>Badminton</item>
+        <item>Ragbi</item>
+        <item>Stolni tenis</item>
+    </string-array>
+</resources>

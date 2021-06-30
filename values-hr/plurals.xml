@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novih obavijesti</item>
+        <item quantity="one">%d nova obavijest</item>
+        <item quantity="few">%d nove obavijesti</item>
+    </plurals>
+	<plurals name="plural_time_hour">
+        <item quantity="other">%d sati</item>
+        <item quantity="zero">%d sat</item>
+        <item quantity="one">%d sat</item>
+        <item quantity="two">%d sati</item>
+        <item quantity="few">%d sati</item>
+        <item quantity="many">%d sati</item>
+    </plurals>
+    <plurals name="plural_time_minute">
+        <item quantity="other">%d min.</item>
+        <item quantity="zero">%d min.</item>
+        <item quantity="one">%d min.</item>
+        <item quantity="two">%d min.</item>
+        <item quantity="few">%d min.</item>
+        <item quantity="many">%d min.</item>
+    </plurals>
+    <plurals name="plural_time_second">
+        <item quantity="other">%d sek.</item>
+        <item quantity="zero">%d sek.</item>
+        <item quantity="one">%d sek.</item>
+        <item quantity="two">%d sek.</item>
+        <item quantity="few">%d sek.</item>
+        <item quantity="many">%d sek.</item>
+    </plurals>
+</resources>
